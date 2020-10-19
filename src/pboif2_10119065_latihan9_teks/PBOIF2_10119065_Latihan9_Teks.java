@@ -1,3 +1,4 @@
+package pboif2_10119065_latihan9_teks;
 /*
  * @author
  * NAMA                 : Fachriansyah Muhammad Nur Ihsan
@@ -6,7 +7,6 @@
  * Deskripsi Program    : Program ini menampilkan teks
  *
  */
-package pboif2_10119065_latihan9_teks;
 public class PBOIF2_10119065_Latihan9_Teks {
 
     public static void main(String[] args) {
